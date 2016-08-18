@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ toString()
+comment1.params=
+comment1.target=Polynomial()
+comment2.params=second\ first\ zero
+comment2.target=Polynomial(int,\ int,\ int)
+comment3.params=second\ first\ zero
+comment3.target=void\ setPoly(int,\ int,\ int)
+comment4.params=other
+comment4.target=Polynomial\ add(Polynomial)
+comment5.params=other
+comment5.target=Polynomial\ subtract(Polynomial)
+comment6.params=other
+comment6.target=Polynomial\ multiply(Polynomial)
+comment7.params=
+comment7.target=void\ square()
+comment8.params=
+comment8.target=void\ squareRoot()
+numComments=9
